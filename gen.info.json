@@ -1,0 +1,9 @@
+{
+    "name": {
+        "long": "Omniarium",
+        "short": "Omni"
+    },
+    "web": {
+        "host": "omni.ender.ing"
+    }
+}
